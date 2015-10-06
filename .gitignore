@@ -7,6 +7,8 @@
 
 # RStudio files
 .Rproj.user/
+*.Rproj
+
 
 # produced vignettes
 vignettes/*.html
@@ -19,3 +21,4 @@ vignettes/*.pdf
 exdata_data_household_power_consumption.zip
 household_power_consumption.txt
 household_power_consumption.txt
+.Rproj.user
